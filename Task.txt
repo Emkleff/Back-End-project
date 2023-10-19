@@ -1,0 +1,39 @@
+create a new folder
+initialize a package.json
+create your main file or entry point
+
+install nodemon as a dev dependency
+install express
+
+set up your scripts - start, dev
+
+require express and assign to a variable called express
+invoke the express and assign to a variable called app
+set up your port number
+
+make your app listen for req on your port 
+and log a message to the console when it is successful
+
+set a router such that if the users goes to / --> Welcome to the home page
+another router - /contact --> contact form
+
+set up an error route- have a navigation back to the home page
+status code 
+
+MVC- 
+MODELS
+VIEWS /ROUTER url 
+CONTROLLER - function 
+
+model (data)---> controllers (functions) ----> router (url) ---> main file(index.js) use 
+request parameter - 
+
+// finish the other request methods - delete, cpos, patch
+
+// set up our database
+// make a connection from the code 
+
+to access variables inside of .env file
+
+process.env.VARIABLE_NAME
+process.env.MONGO_URI
